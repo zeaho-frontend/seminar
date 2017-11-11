@@ -38,7 +38,7 @@
 
 * [webpack 入门](http://www.jianshu.com/p/943a47cb3088)
 
-* [webpack常用插件 - 1]() TODO
+* [webpack常用插件 - 1](https://zjafei.coding.me/2017/11/05/webpack%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6/)
 
 #### web优化
 
