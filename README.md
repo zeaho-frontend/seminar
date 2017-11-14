@@ -62,7 +62,7 @@
 
 * [web优化 之 更优引入](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-optimized-import/)
 
-* [web优化 之 按需引入]() // TODO
+* [web优化 之 按需引入](http://yl33643.coding.me/2017/11/14/2017-11-14-web-optimization-import-as-required/)
 
 * [web优化 之 hash](http://yl33643.coding.me/2017/11/08/2017-11-08-web-optimization-incremental-hash/)
 
