@@ -46,6 +46,18 @@
 
 * [web优化 之 包分析](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-bundle-analyze/)
 
+* [web优化 之 懒加载](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-lazy-loading/)
+
+* [web优化 之 模块化引入](http://yl33643.coding.me/2017/11/06/2017-11-06-web-optimization-import-as-required/)
+
+* [web优化 之 更优引入](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-optimized-import/)
+
+* [web优化 之 按需引入]() // TODO
+
+* [web优化 之 hash](http://yl33643.coding.me/2017/11/08/2017-11-08-web-optimization-incremental-hash/)
+
+* [web优化 之 增量更新](http://yl33643.coding.me/2017/11/13/2017-11-13-web-optimization-incremental-updating/)
+
 #### web安全
 
 // TODO
