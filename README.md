@@ -50,6 +50,8 @@
 
 #### web优化
 
+* [web优化 之 DllPlugin](http://yl33643.coding.me/2017/10/12/2017-10-12-web-optimization-dllplugin/)
+
 * [web优化 之 压缩](http://yl33643.coding.me/2017/10/13/2017-10-13-web-optimization-gzip/)
 
 * [web优化 之 包分析](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-bundle-analyze/)
