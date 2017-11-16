@@ -70,7 +70,7 @@
 
 * [web优化 之 缓存](http://yl33643.coding.me/2017/11/16/2017-11-16-web-optimization-browser-cache/)
 
-* [web优化 之 其他]() // TODO
+* [web优化 之 拾遗](http://yl33643.coding.me/2017/11/16/2017-11-16-web-optimization-other/)
 
 #### web安全
 
