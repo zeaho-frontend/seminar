@@ -36,6 +36,10 @@
 
 * [Linux系统分享](http://www.jianshu.com/p/c07b2a8af5d5)
 
+#### React
+
+* [从高阶函数到高阶组件](https://zjafei.coding.me/2017/11/15/%E4%BB%8E%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0%E5%88%B0%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
+
 #### android
 
 // TODO
