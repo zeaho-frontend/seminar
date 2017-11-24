@@ -4,11 +4,13 @@
 
 ## 编程
 
-* [Optional入门]() (TODO)
+* [Optional入门](http://terry_l.coding.me/2017/11/16/optional/)
 
 * [ReactiveX入门](http://yl33643.coding.me/2017/09/19/2017-09-19-reactivex-introduction/)
 
 * [JavaScript学习 之 传值or传引用](http://yl33643.coding.me/2017/05/19/2017-05-19-javascript-pass-by-value-or-reference/)
+
+* [Reference Count](http://terry_l.coding.me/2017/11/22/memoryManagement/)
 
 ## 进阶
 
