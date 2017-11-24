@@ -43,8 +43,11 @@
 #### android
 
 * [Activity启动模式](http://remer.coding.me/2017/11/13/Activity%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F/)
+
 * [Android Fragment](http://remer.coding.me/2017/11/20/Fragment/)
+
 * [Android Databinding接入介绍](http://remer.coding.me/2017/11/20/DataBinding%E6%8E%A5%E5%85%A5%E4%BB%8B%E7%BB%8D/)
+
 * [DataBinding进阶](http://remer.coding.me/2017/11/20/DataBinding%E5%AF%BC%E5%8C%85/)
 
 #### webpack
