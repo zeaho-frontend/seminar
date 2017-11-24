@@ -4,13 +4,11 @@
 
 ## 编程
 
-* [Optional入门](http://terry_l.coding.me/2017/11/16/optional/)
+* [Optional入门]() (TODO)
 
 * [ReactiveX入门](http://yl33643.coding.me/2017/09/19/2017-09-19-reactivex-introduction/)
 
 * [JavaScript学习 之 传值or传引用](http://yl33643.coding.me/2017/05/19/2017-05-19-javascript-pass-by-value-or-reference/)
-
-* [Reference Count](http://terry_l.coding.me/2017/11/22/memoryManagement/)
 
 ## 进阶
 
@@ -44,7 +42,10 @@
 
 #### android
 
-// TODO
+* [Activity启动模式](http://remer.coding.me/2017/11/13/Activity%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F/)
+* [Android Fragment](http://remer.coding.me/2017/11/20/Fragment/)
+* [Android Databinding接入介绍](http://remer.coding.me/2017/11/20/DataBinding%E6%8E%A5%E5%85%A5%E4%BB%8B%E7%BB%8D/)
+* [DataBinding进阶](http://remer.coding.me/2017/11/20/DataBinding%E5%AF%BC%E5%8C%85/)
 
 #### webpack
 
