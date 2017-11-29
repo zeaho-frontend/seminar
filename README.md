@@ -4,15 +4,11 @@
 
 ## 编程
 
-* [Optional入门]() (TODO)
+* [Optional入门](http://terry_l.coding.me/2017/11/16/optional/)
 
 * [ReactiveX入门](http://yl33643.coding.me/2017/09/19/2017-09-19-reactivex-introduction/)
 
 * [JavaScript学习 之 传值or传引用](http://yl33643.coding.me/2017/05/19/2017-05-19-javascript-pass-by-value-or-reference/)
-
-## 进阶
-
-* [高阶组件在权限管理中的应用](https://zjafei.coding.me/2017/11/15/%E4%BB%8E%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0%E5%88%B0%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 
 ## 服务端
 
@@ -36,7 +32,7 @@
 
 * [Linux系统分享](http://www.jianshu.com/p/c07b2a8af5d5)
 
-#### React
+#### react
 
 * [从高阶函数到高阶组件](https://zjafei.coding.me/2017/11/15/%E4%BB%8E%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0%E5%88%B0%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 
@@ -86,5 +82,6 @@
 
 * [Web安全 之 XSS攻击](http://www.jianshu.com/p/696fd8525530)
 
-#### CSS
+#### css
+
 * [css布局：两栏、三栏，从圣杯到双飞翼](https://zjafei.coding.me/2017/11/23/css%E5%B8%83%E5%B1%80%EF%BC%9A%E4%B8%A4%E6%A0%8F%E3%80%81%E4%B8%89%E6%A0%8F%EF%BC%8C%E4%BB%8E%E5%9C%A3%E6%9D%AF%E5%88%B0%E5%8F%8C%E9%A3%9E%E7%BF%BC/)
