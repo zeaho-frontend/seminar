@@ -1,6 +1,7 @@
 ## 工具
 
 * [Gulp入门](http://www.jianshu.com/p/73e64656a244)
+* [npm scripts](http://www.jianshu.com/p/5f952d5213cd)
 
 ## 编程
 
