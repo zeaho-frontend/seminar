@@ -47,6 +47,14 @@
 
 * [DataBinding进阶](http://remer.coding.me/2017/11/20/DataBinding%E5%AF%BC%E5%8C%85/)
 
+* [DataBinding表达式](http://remer.coding.me/2017/11/30/DataBinding%E8%A1%A8%E8%BE%BE%E5%BC%8F/)
+
+* [如何封装一个View](http://remer.coding.me/2017/11/30/%E5%A6%82%E4%BD%95%E5%B0%81%E8%A3%85View/)
+
+* [AndroidStudio添加Templates](http://remer.coding.me/2017/12/04/AndroidFileTemplate/)
+
+* [Android ORM 框架(greenDAO)](http://remer.coding.me/2017/12/06/Android-ORM/)
+
 #### webpack
 
 * [webpack 入门](http://www.jianshu.com/p/943a47cb3088)
