@@ -4,6 +4,8 @@
 
 * [npm scripts](http://www.jianshu.com/p/5f952d5213cd)
 
+* [反编译ipa](http://terry_l.coding.me/2017/12/06/decompile/)
+
 ## 编程
 
 * [Optional入门](http://terry_l.coding.me/2017/11/16/optional/)
