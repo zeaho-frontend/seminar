@@ -14,6 +14,12 @@
 
 * [JavaScript学习 之 传值or传引用](http://yl33643.coding.me/2017/05/19/2017-05-19-javascript-pass-by-value-or-reference/)
 
+* [react基于state和props的父子组件和兄弟组件沟通](https://zjafei.coding.me/2017/12/16/react%E7%9A%84state%E5%92%8C%E5%9F%BA%E4%BA%8Eprops%E7%9A%84%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6%E5%92%8C%E5%85%84%E5%BC%9F%E7%BB%84%E4%BB%B6%E6%B2%9F%E9%80%9A/)
+
+* [react通过redux和redux-saga管理状态](https://zjafei.coding.me/2017/12/16/react%E9%80%9A%E8%BF%87redux%E5%92%8Credux-saga%E7%AE%A1%E7%90%86%E7%8A%B6%E6%80%81/)
+
+* [dva脚手架的demo](https://zjafei.coding.me/2017/12/26/dva%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9A%84demo/)
+
 ## 服务端
 
 #### 运维
