@@ -72,7 +72,7 @@
 
 * [webpack常用插件 - 1](https://zjafei.coding.me/2017/11/05/webpack%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6/)
 
-* [webpack常用插件 - 2]() // TODO
+* [webpack常用插件 - 2](https://zjafei.coding.me/2017/12/30/WDS%E9%94%99%E8%AF%AF%E6%8F%90%E7%A4%BA%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83HMR%E7%9A%84%E9%85%8D%E7%BD%AE/)
 
 #### web优化
 
