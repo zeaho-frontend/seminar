@@ -84,7 +84,7 @@
 
 * [web优化 之 懒加载](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-lazy-loading/)
 
-* [web优化 之 模块化引入](http://yl33643.coding.me/2017/11/06/2017-11-06-web-optimization-import-as-required/)
+* [web优化 之 模块化引入](http://yl33643.coding.me/2017/11/06/2017-11-06-web-optimization-import-as-module/)
 
 * [web优化 之 更优引入](http://yl33643.coding.me/2017/11/07/2017-11-07-web-optimization-optimized-import/)
 
