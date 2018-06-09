@@ -104,6 +104,12 @@
 
 * [Web安全 之 CSRF攻击](http://www.jianshu.com/p/2b3c50891bf0)
 
-#### css
+* [Laravel框架 之 XSS](http://yl33643.coding.me/2018/04/20/2018-04-20-laravel-xss/)
+
+* [Laravel框架 之 CSRF](http://yl33643.coding.me/2018/04/18/2018-04-18-laravel-scrf/)
+
+#### CSS
+
+* [两列自适应布局](https://www.jianshu.com/p/ee02f0eb9fc1)
 
 * [css布局：两栏、三栏，从圣杯到双飞翼](https://zjafei.coding.me/2017/11/23/css%E5%B8%83%E5%B1%80%EF%BC%9A%E4%B8%A4%E6%A0%8F%E3%80%81%E4%B8%89%E6%A0%8F%EF%BC%8C%E4%BB%8E%E5%9C%A3%E6%9D%AF%E5%88%B0%E5%8F%8C%E9%A3%9E%E7%BF%BC/)
